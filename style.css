@@ -1142,7 +1142,7 @@ footer.footer-last {
 .tab-button {
   border: none;
   cursor: pointer;
-  background-image: url(/img/blac.png);
+  background-image: url(img/blac.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1172,7 +1172,7 @@ footer.footer-last {
 }
 
 .tab-button.active {
-  background-image: url(/img/red.png);
+  background-image: url(img/red.png);
 }
 
 
